@@ -106,7 +106,6 @@ CREATE TABLE crm_data (
     status VARCHAR,
     ...
 );
-
 ```
 
 \` Индексы:
